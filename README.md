@@ -4,9 +4,9 @@ Herramienta en linux que realiza un escaneo de los puertos TCP y UDP hacia un ob
 # Proyecto: Escáner híbrido de puertos y sniffing en C++
 
 **Miembros del equipo:** 
-Eduardo Flores Smith | Encargado del modulo de Escaneo y del main
-CASAS CRUZ JORGE LUIS | Encargado del modulo de Sniffing
-FLORES PINAL ANDRES TADEO | Encargado del modulo para el formato JSON
+- Eduardo Flores Smith | Encargado del modulo de Escaneo y del main
+- CASAS CRUZ JORGE LUIS | Encargado del modulo de Sniffing
+- FLORES PINAL ANDRES TADEO | Encargado del modulo para el formato JSON
 
 ## Descripción general
 Herramienta en C++ para Linux que realiza:
