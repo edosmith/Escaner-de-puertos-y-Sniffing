@@ -26,7 +26,7 @@ Herramienta en C++ para Linux que realiza:
 - Dependencias:
   - `libpcap` (devel): `sudo apt install libpcap-dev`
   - `nlohmann/json` (header-only). Instalar por ejemplo: `sudo apt install nlohmann-json3-dev`
-- Ejecutar como **root** o con permisos para abrir pcap en modo promiscuo y enviar sockets raw si aplica.
+- Se recomienda ejecutarse en modo ROOT para que funcione de manera correcta.
 
 ## Compilación
 g++ -std=c++17 main.cpp Escaneo.cpp Sniffer.cpp JSONGen.cpp -o scanner -lpcap -pthread
